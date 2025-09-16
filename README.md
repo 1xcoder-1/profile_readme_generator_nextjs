@@ -105,4 +105,3 @@ Made with :heart: by <a href="https://github.com/1xcoder" target="_blank">1xcode
 
 <a href="#top">Back to top</a>
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
