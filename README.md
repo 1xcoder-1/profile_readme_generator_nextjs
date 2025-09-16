@@ -5,14 +5,6 @@
 </div>
 
 
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
-
 ## :dart: About ##
 
 Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
@@ -108,12 +100,8 @@ $ yarn dev
 - `test`: runs the tests;
 - `lint`: runs eslint in the /src directory.
 
-## :memo: License ##
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+Made with :heart: by <a href="https://github.com/1xcoder" target="_blank">1xcoder</a>
 
 &#xa0;
 
